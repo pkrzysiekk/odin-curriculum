@@ -4,6 +4,9 @@ Asynchronous code can become difficult to follow when it has a lot of things goi
 
 For example, the two code blocks below do the exact same thing. They both get information from a server, process it, and return a promise.
 yessssssssssssssss
+sadasdsadsadsadsadas
+sadasdsadasdasdasdas
+sadasdsadasdasdasdas
 
 ```javascript
 function getPersonsInfo(name) {
